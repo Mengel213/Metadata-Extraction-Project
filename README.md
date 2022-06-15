@@ -7,12 +7,13 @@ Project consists of a look at some unix tools for gaining meta information from 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Terminal</b> 
+- <b>Pdfinfo</b>
+- <b>Exiftool</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Ubuntu</b> 
 
 <h2>Program walk-through:</h2>
 
