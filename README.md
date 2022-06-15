@@ -21,7 +21,7 @@ Project consists of a look at some unix tools for gaining meta information from 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="(https://imgur.com/a/51PtAOQ)" height="80%" width="80%" alt="LS Info"/>
+<img src="[https://imgur.com/a/51PtAOQ]" height="80%" width="80%" alt="LS Info"/>
 <br />
 <br />
 
