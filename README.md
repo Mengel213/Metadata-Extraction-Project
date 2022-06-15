@@ -1,7 +1,7 @@
 <h1>Metadata-Extraction-Project</h1>
 
 <h2>Description</h2>
-Project consists of a look at some unix tools for gaining meta information from pdfs and images. This project is being conducted following Tryhack.me's Digital Forensics Introduction course. 
+Project consists of a look at some unix tools for gaining meta information from pdfs and images. This project is being conducted following Tryhack.me's Digital Forensics Introduction course. https://tryhackme.com/room/introdigitalforensics
 <br />
 
 
