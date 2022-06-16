@@ -24,7 +24,29 @@ Run ls for a visual of what you're working with: <br/>
 <img src="https://i.imgur.com/zOS4a9E.png" height="80%" width="80%" alt="LS Info"/>
 <br />
 <br />
-
+Run Pdfinfo:  <br/>
+<img src="https://i.imgur.com/7gYLb6Y.png" height="80%" width="80%" alt="PdfInfo"/>
+<br />
+<br />
+Running PdfInfo lets us gain some information on the origin of the pdf, now lets run exiftool to extract metadata from the Image as well <br/>
+<br />
+Run Exiftool <br/>
+<img src="https://i.imgur.com/jhKEUqf.png" height="80%" width="80%" alt="LS Info"/>
+<br />
+<br />
+<br />
+Exiftool is able to extract a large amount of data from images, using grep can help you find specific data from the tool <br/>
+Example using Grep:  <br/>
+<img src="https://i.imgur.com/i3YhQv3.png" height="80%" width="80%" alt="PdfInfo"/>
+<br />
+<br />
+ <h2>Summary</h2>
+There is a lot of data to be extracted from pdfs and images. Using the grep command can help you sort through the data as long as you know the specific parameter you're searching for, keep in mind they are case sensitive. 
+<br />
+ 
+ 
+ 
+ 
 </p>
 
 <!--
