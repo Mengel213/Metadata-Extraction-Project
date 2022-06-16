@@ -20,7 +20,7 @@ Project consists of a look at some unix tools for gaining meta information from 
 
 
 <p align="center">
-Launch the utility: <br/>
+Run ls for a visual of what you're working with: <br/>
 <img src="https://i.imgur.com/zOS4a9E.png" height="80%" width="80%" alt="LS Info"/>
 <br />
 <br />
